@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title> Resume </title>
+	<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel='stylesheet' href='new.css'>
+	<style>
+	#text{
+	text-align:center;
+	}
+	.left{
+	    float:left;
+	}
+	.right{
+	    float:right;
+		}
+	#first{
+	     background-color:green;
+		 float:left;
+		 height:400px;
+		 width:400px;
+		 }
+	#second{
+	    background-color:orange;
+	    float:right;
+		height:400px;
+		width:400px;
+		
+		}
+    #therd{
+	    background-color:blue;
+		text-align:center;
+		height:400px;
+		}		
+	</style>
+</head>
+     <body>
+	     <div id="text"> 
+	     <p><h1> Resume </h1></p>
+	     </div>
+	     <div class="left">
+	     <img src="../sources/m.JPG" width="200" height="200">
+	     </div title="text1">	
+         <p>Անուն: Բագրատ </p>
+         <p> Ազգանուն: Ավետիսյան</p>
+	     <p> Ծննդյան թիվ: 10/07/97</p>
+	     <p> Անձնագրի ID: AM3848392048</p>
+	     <br>
+	     <br>
+	     <br>
+	     <br>
+	     <br>
+	     <hr>
+		 <div id="first">
+		 <h3>Կրճատ իմ մասին</h3>
+	     <p>Ծնվել և մեծացել եմ Հայաստանում:</p>
+	     <p>Սովորել եմ Մայակովսկու անվան</p>
+	     <p>թիվ 7 դպրոցում:Ավարտելուց հետո</p>
+	     <p>ընդունվել եմ ՀԱԱՀ:Ներկա</p>
+	     <p>պահին սուվորում եմ 2-րդ կուրսում:</p>
+	     <p>Նպատակ ունեմ սովորել </p>
+	     <p>web ծրագրավորում և</p>
+	     <p>հաջողությունների հասնել:</p>
+		 </div> 
+	     <div id="second">
+		 <h3> Աշխատանքային փորձ</h3>
+		 <p>Աշխատանքային փորձ չունեմ:</p>
+		 </div>
+		 <div id="therd">
+		 <h3>Աշխատանքի ընդունվելու նպատակը</h3>
+		 <p> Ցանկանում եմ որևէ կերպ նպաստել կազմակերպության</p>
+		 <p> բարգավաճմանը: Հմտանամ իմ մասնագիտության մեջ:</p>
+		 </div>
+		 <br>
+		 <hr>  
+		 <br>
+		   <ul>
+		     <li><a href="about"> About</a></li>
+			 <li><a href="vk"> VK acount</a></li>
+			 <li><a href="mail"> Mail</a></li>
+			 <li><a href="telefon"> Telefon</a></li>
+		   </ul> 
+     </body>
+</html>	 
+     
+	
