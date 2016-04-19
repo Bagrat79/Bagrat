@@ -1,0 +1,38 @@
+#header h1{
+    text-align:center;
+    }
+#header{
+	background-color:red;
+	overflow: auto;
+    }
+#avatar, #basic{
+	float:left;
+	margin-left:1%;
+	overflow:auto;
+}
+#left_sidbar{
+	float:left;
+	width:20%;
+	
+}
+#center{
+	float:left;
+	width:80%;
+	background-color:black;
+}
+#footer{
+	background-color:red;
+    clear:both;
+	overflow:auto;
+}
+
+#cont li{
+	list-style-type:none;
+	float:left;
+    margin-right:1%;
+}
+#copyrights{
+	float:right;
+}
+.text1{
+	color:red;
